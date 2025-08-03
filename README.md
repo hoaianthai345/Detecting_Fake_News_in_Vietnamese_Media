@@ -23,6 +23,7 @@ A comprehensive comparative study of machine learning approaches for Vietnamese 
 | Large Language Models | Qwen2.5 (zero-shot) | 73.25% | 42.15% | ~3s |
 
 ## 🗂️ Repository Structure
+```
 vietnamese-fake-news-detection/
 ├── BiLSTM/
 │ ├── BiLSTM.ipynb # BiLSTM with random embeddings
@@ -38,7 +39,7 @@ vietnamese-fake-news-detection/
 │ ├── Llama2_fewshot.ipynb # Llama-2 few-shot
 │ └── deepseek.ipynb # DeepSeek evaluation
 └── README.md # This file
-
+```
 
 ## 🚀 Quick Start
 
